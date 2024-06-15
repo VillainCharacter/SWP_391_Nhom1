@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Pro192">
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Dal/AccountDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/ProfileServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/profile.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/LoginServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Dal/CartDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Model/Cart.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Model/User.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/AllProductServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/Logout.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/UpdateAccount.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/updateAccount.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Dal/DBContext.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/ManageProduct.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/ManagermentAccount.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/productManage.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/CartServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/allproduct.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/accountManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/UpdateProduct.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/changePassword.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/cart.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/web/home.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/ChangePassword.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWT301/Swp391abc/src/java/Controller/DeleteItemInCart.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
